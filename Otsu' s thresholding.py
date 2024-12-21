@@ -2,7 +2,7 @@ import cv2
 import os
 
 # Đường dẫn tới thư mục gốc chứa các thư mục con
-base_input_dir = "Dataset"  # Thay bằng đường dẫn của bạn
+base_input_dir = "Dataset/Real"  # Thay bằng đường dẫn của bạn
 base_output_dir = "output"  # Thư mục lưu ảnh kết quả
 
 # Tạo thư mục đầu ra nếu chưa tồn tại
