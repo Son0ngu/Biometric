@@ -38,8 +38,8 @@ def organize_fingerprints(source_folder, destination_folder):
 
 if __name__ == "__main__":
     # Replace with your source and destination folders
-    source_folder = "Dataset/Real"
-    destination_folder = "Dataset/Real"
+    source_folder = r"C:\Users\sonbx\OneDrive\Documents\SOCOFing\SOCOFing\Altered\Altered-Hard"
+    destination_folder = r"C:\Users\sonbx\OneDrive\Documents\SOCOFing\Altered\Altered-Hard"
 
     organize_fingerprints(source_folder, destination_folder)
 
