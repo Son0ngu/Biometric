@@ -1,4 +1,5 @@
 # Biometric
-2 weeks countdown
+4 weeks countdown
 Preprocessing-almost
 Go to Model trainning
+Then its Application
